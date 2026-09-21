@@ -4,49 +4,49 @@
 const personas = {
   meia: {
     emoji: "🧦",
-    img: "images/meia.png",
+    img: "images/meia.jpg",
     title: "Ryan Gosling Meia",
     desc: "Você preza o conforto acima de qualquer coisa. Não importa a ocasião: se tiver um sofá e uma manta por perto, você já tá em casa. Reservado, quentinho e cheio de calor humano (literalmente)."
   },
   carro: {
     emoji: "🚗",
-    img: "images/carro.png",
+    img: "images/carro.jpg",
     title: "Ryan Gosling Carro",
     desc: "Misterioso, estiloso e sempre em movimento. Você não fala muito, mas quando aparece, todo mundo repara. Olhar de quem sabe pra onde vai, mesmo sem saber."
   },
   guerra: {
     emoji: "🎖️",
-    img: "images/guerra.png",
+    img: "images/guerra.jpg",
     title: "Ryan Gosling Pós-Guerra",
     desc: "Você já viu de tudo e sobreviveu pra contar a história, com uma cara séria de quem carrega mil batalhas nas costas. Intenso, resiliente e meio dramático, mas no bom sentido."
   },
   egipcio: {
     emoji: "👑",
-    img: "images/egipcio.png",
+    img: "images/egipcio.jpg",
     title: "Ryan Gosling Egípcio",
     desc: "Realeza, simples assim. Você entra em qualquer ambiente como se fosse dono do lugar. Elegante, confiante e com uma pitada de mistério milenar."
   },
   cartas: {
     emoji: "🎴",
-    img: "images/cartas.png",
+    img: "images/cartas.jpg",
     title: "Ryan Gosling Colecionador de Cartas",
     desc: "Nerd raiz, e com muito orgulho. Você tem uma paixão genuína por coisas que a maioria ignora, e isso te faz único. Detalhista, nostálgico e sempre pronto pra mostrar sua coleção pra quem quiser ver (ou não)."
   },
   ocupado: {
     emoji: "🍌",
-    img: "images/ocupado.png",
+    img: "images/ocupado.jpg",
     title: "Ryan Gosling Ocupado",
     desc: "Sempre correndo, sempre numa call importante, mesmo que seja com uma banana. Multitarefa nato e estiloso até na correria. Ninguém sabe direito o que você faz, mas parece muito importante."
   },
   feliz: {
     emoji: "😄",
-    img: "images/feliz.png",
+    img: "images/feliz.jpg",
     title: "Ryan Gosling Feliz",
     desc: "Sol, boa vibe e um sorriso fácil. Você encontra motivo pra alegria em qualquer cenário, inclusive dentro de um mundo de blocos. Leve, gente boa e a companhia perfeita pra qualquer rolê."
   },
   flor: {
     emoji: "🌼",
-    img: "images/flor.png",
+    img: "images/flor.jpg",
     title: "Ryan Gosling Flor",
     desc: "Sensível, doce e cheio de camadas, tipo uma margarida. Você prefere um dia tranquilo cercado de coisas bonitas a qualquer alvoroço. Romântico até quando finge que não é."
   }
